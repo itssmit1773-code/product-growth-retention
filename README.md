@@ -1,5 +1,7 @@
 # Product Growth & Retention Intelligence
 
+[Open interactive dashboard](https://stn7u3hopbwfaxrcwduksm.streamlit.app/) · [Read the portfolio case study](https://itssmit1773-code.github.io/portfolio/growth-retention.html)
+
 **TandemDesk · Synthetic SaaS case study**
 
 Where should a growth team investigate onboarding first, and how long would it take to test a fix? This project follows 4,532 fictional workspaces through 46,002 events from signup to collaboration, repeat usage and payment.
