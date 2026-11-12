@@ -1,0 +1,10 @@
+{
+  "product": "TandemDesk",
+  "synthetic": true,
+  "seed": 1729,
+  "signup_start_utc": "2025-01-06",
+  "observation_end_exclusive_utc": "2025-07-07",
+  "cutoff_ts": 1751846400,
+  "workspaces": 4532,
+  "events": 46002
+}

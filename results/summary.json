@@ -1,0 +1,35 @@
+{
+  "source": {
+    "product": "TandemDesk",
+    "synthetic": true,
+    "seed": 1729,
+    "signup_start_utc": "2025-01-06",
+    "observation_end_exclusive_utc": "2025-07-07",
+    "cutoff_ts": 1751846400,
+    "workspaces": 4532,
+    "events": 46002
+  },
+  "overall": {
+    "signups": 4532,
+    "d7_eligible": 4317,
+    "activated": 1365,
+    "activation_rate": 0.3161917998610146,
+    "w4_eligible": 3444,
+    "retained_w4": 918,
+    "w4_rate": 0.2665505226480836,
+    "d30_eligible": 3602,
+    "paid_d30": 411,
+    "paid_rate": 0.11410327595780122,
+    "cash_d30_cents": 1902900,
+    "cash_per_signup": 5.282898389783454
+  },
+  "experiment_baseline": {
+    "eligible": 985,
+    "activated": 381,
+    "baseline": 0.3868020304568528,
+    "per_week": 164.16666666666666,
+    "mde": 0.05,
+    "per_arm": 1520,
+    "enrollment_weeks": 19
+  }
+}
